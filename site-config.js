@@ -26,8 +26,8 @@ window.siteConfig = {
   },
 
   event: {
-    invitationLabel: "Engagement Invitation",
-    heroTitle: "Let's Get Engaged",
+    invitationLabel: "Wedding Invitation",
+    heroTitle: "Let's Get Married",
     heroTagline:
       "A soft little corner of the internet made for the people we love most.",
     coupleNames: "Menna & Ahmed",
